@@ -1,0 +1,123 @@
+h1 {
+	font-size: 40px;
+	line-height: 48px;
+	margin: 12px;
+	color:#ff0000;
+}
+
+h1 a:link {
+	color: #222;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: 100;
+	line-height: 24px;
+	margin: 12px;
+}
+
+h3 #subtitle {
+	color: #eee;
+}
+
+h5 {
+	font-size: 12px;
+	font-weight: 800;
+	line-height: 16px;
+	margin: 6px;
+	color: #00aa00;
+}
+
+h6 {
+	color: #00aa00;
+}
+
+h6 a:link {
+	color: #ff0000;
+}
+
+h6 a:visited {
+	color: #cc0000;
+}
+
+p {
+	font-size: 12px;
+	line-height: 16px;
+}
+
+a:link {
+	color: #9900ff;
+	text-decoration: none;
+}
+
+li a:link {
+	color: #9900ff;
+}
+
+a:hover {
+	color: #ff00ff;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    cursor:url(img/flip.png),auto;
+}
+
+ul a:link {
+    cursor:url(../img/flip.png),auto;
+}
+
+ul a:hover {
+    cursor:url(../img/flip.png),auto;
+}
+
+li {
+	font-size: 56px;
+	line-height: 56px;
+	margin: 24px 0px;
+}
+
+small {
+	font-size: 8px;
+	line-height: 12px;
+}
+
+footer {
+	
+}
+
+#main-container { 
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    font-family: arial, sans-serif;	
+}
+
+#title-container { 
+	margin: 0 auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	width: 540px;
+	text-align: center;
+}
+
+#subtitle-box {
+	margin-bottom: 40px;
+}
+
+#santa img {
+	width: 100%;
+	margin-top: 300px;
+	margin-bottom:40px;
+}
+
+#footer-img {
+	width: 80px;
+	margin: 0 auto;
+}
+
+#footer-img img {
+	width: 100%;
+}
