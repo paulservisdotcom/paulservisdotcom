@@ -113,6 +113,10 @@ footer {
 	margin-bottom:40px;
 }
 
+#elf img {
+	width: 100%;
+}
+
 #footer-img {
 	width: 80px;
 	margin: 0 auto;
