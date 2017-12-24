@@ -1,6 +1,6 @@
 h1 {
-	font-size: 40px;
-	line-height: 48px;
+	font-size: 56px;
+	line-height: 64px;
 	margin: 12px;
 	color:#ff0000;
 }
@@ -21,7 +21,7 @@ h3 #subtitle {
 }
 
 h5 {
-	font-size: 12px;
+	font-size: 20px;
 	font-weight: 800;
 	line-height: 16px;
 	margin: 6px;
@@ -90,7 +90,7 @@ footer {
 
 #main-container { 
     margin: auto;
-    width: 600px;
+    width: 800px;
     text-align: center;
     font-family: arial, sans-serif;	
 }
@@ -99,7 +99,7 @@ footer {
 	margin: 0 auto;
 	margin-bottom: 40px;
 	margin-top: 40px;
-	width: 540px;
+	width: 720px;
 	text-align: center;
 }
 
